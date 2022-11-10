@@ -1,0 +1,20 @@
+{
+  "name": "global-travel-app-server",
+  "version": "1.0.0",
+  "description": "Global Travel Server is A Part of Global Travel App This Server Baked With NodeJS, Express and Database connect with MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhomedia/Global-Travel-App-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhomedia/Global-Travel-App-Server/issues"
+  },
+  "homepage": "https://github.com/shubhomedia/Global-Travel-App-Server#readme"
+}
